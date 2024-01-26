@@ -3,7 +3,24 @@ A reinforcement learning-driven project optimizing goods delivery routes and sch
 
 ## Overview
 
-**LogiTrak** aims to design and implement an intelligent system for optimizing delivery routes, schedules, and driving patterns in a simulated environment. Through this project, we hope to use Reinforcement Learning to enhance the efficiency and effectiveness of goods delivery by ground transportation.
+In the realm of goods delivery through ground transportation, several critical factors necessitate the implementation of an intelligent system utilizing Deep Reinforcement Learning (DRL). These factors include:
+
+- **Route Complexity:** Navigating through dynamic traffic conditions, road closures, and unexpected obstacles demands adaptive route optimization for efficiency.
+
+- **Scheduling Variances:** Dealing with diverse delivery time windows, varying priorities, and dynamic changes in demand requires an adaptable scheduling system.
+
+- **Driving Efficiency:** Enhancing overall vehicle efficiency by addressing suboptimal driving patterns and minimizing fuel consumption.
+
+- **Customer Satisfaction:** Timely deliveries, effective communication, and service reliability are pivotal for ensuring high levels of customer satisfaction.
+
+- **Revenue Optimization:** Balancing operational costs, fuel expenses, and delivery efficiency is crucial for maximizing revenue.
+
+- **Adaptability to Changes:** The ability to dynamically respond to external factors such as weather, accidents, or unexpected events is essential for operational resilience.
+
+- **Continuous Learning:** Gaining insights into customer behavior, identifying operational patterns, and adapting to evolving market conditions for continuous improvement.
+
+In response to these challenges, LogiTrak aims to develop an intelligent agent powered by Deep Reinforcement Learning which should be able to make optimal decisions, learn from experience, and feedback and improve overall efficiency in terms of cost and time.
+
 
 ## Objectives
 
