@@ -5,7 +5,7 @@ A reinforcement learning-driven project optimizing goods delivery routes and sch
 
 ## Project Overview
 
-The "Delivery Optimization with Reinforcement Learning" project aims to design and implement an intelligent system for optimizing delivery routes, schedules, and driving patterns in a simulated environment. Through this project, we hope to use Reinforcement Learning to enhance the efficiency and effectiveness of goods delivery by ground transportation.
+**LogiTrak** project aims to design and implement an intelligent system for optimizing delivery routes, schedules, and driving patterns in a simulated environment. Through this project, we hope to use Reinforcement Learning to enhance the efficiency and effectiveness of goods delivery by ground transportation.
 
 ## Objectives
 
@@ -47,20 +47,20 @@ The "Delivery Optimization with Reinforcement Learning" project aims to design a
 
 ## Timeline
 
-- **Phase 1: Setup and Exploration (Week 1-2)**
+- **Phase 1: Setup and Exploration**
   - Define project scope and objectives.
   - Set up development environment.
   - Explore existing literature and resources on delivery optimization and reinforcement learning.
 
-- **Phase 2: Simulation and Model Implementation (Week 3-6)**
+- **Phase 2: Simulation and Model Implementation**
   - Develop the simulation environment.
   - Implement the reinforcement learning model.
 
-- **Phase 3: Training and Optimization (Week 7-10)**
+- **Phase 3: Training and Optimization**
   - Train and optimize the reinforcement learning model.
   - Fine-tune parameters for improved performance.
 
-- **Phase 4: Evaluation and Documentation (Week 11-12)**
+- **Phase 4: Evaluation and Documentation**
   - Evaluate the system's performance using predefined metrics.
   - Document the project, including code comments, a README file, and a project report.
 
