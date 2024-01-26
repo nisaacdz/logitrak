@@ -89,5 +89,3 @@ In response to these challenges, LogiTrak aims to develop an intelligent agent p
 
 **🚀 Welcome to LogiTrak! 🚚**
 
-We're excited to invite experts in logistics, machine learning, and simulation to contribute their expertise. Join us in optimizing ground-based goods delivery, advancing intelligent delivery systems, and driving efficiency in logistics. Your contributions are the key to shaping the future of LogiTrak!
-
