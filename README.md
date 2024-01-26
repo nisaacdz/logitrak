@@ -1,9 +1,7 @@
 # ![Logo](assets/logo.png) LogiTrak ![Logo](assets/logo.png)
 A reinforcement learning-driven project optimizing goods delivery routes and schedules, enhancing efficiency in a simulated environment through intelligent decision-making and dynamic adaptability.
 
-# Project Title: Designing Optimal Delivery System using Reinforcement Learning
-
-## Project Overview
+## Overview
 
 **LogiTrak** aims to design and implement an intelligent system for optimizing delivery routes, schedules, and driving patterns in a simulated environment. Through this project, we hope to use Reinforcement Learning to enhance the efficiency and effectiveness of goods delivery by ground transportation.
 
