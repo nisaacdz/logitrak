@@ -70,16 +70,16 @@
    - Green Initiatives
 
 ## 12. Route Information:
-    - Optimal Routes
-    - Alternative Routes
-    - Historical Traffic Patterns
+   - Optimal Routes
+   - Alternative Routes
+   - Historical Traffic Patterns
 
 ## 13. Technology Integration:
-    - IoT Devices (sensors for monitoring conditions)
-    - Telematics (remote monitoring of vehicle behavior)
-    - Automation Level (e.g., autonomous vehicles)
+   - IoT Devices (sensors for monitoring conditions)
+   - Telematics (remote monitoring of vehicle behavior)
+   - Automation Level (e.g., autonomous vehicles)
 
 ## 14. Security:
-    - Package Tracking and Security Measures
-    - Anti-Theft Systems
-    - Driver Identification and Authentication
+   - Package Tracking and Security Measures
+   - Anti-Theft Systems
+   - Driver Identification and Authentication
