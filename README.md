@@ -3,7 +3,7 @@ A reinforcement learning-driven project optimizing goods delivery routes and sch
 
 ## Overview
 
-In the realm of goods delivery through ground transportation, several critical factors necessitate the implementation of an intelligent system utilizing Deep Reinforcement Learning (DRL). These factors include:
+In the realm of goods delivery through ground transportation, numerous pivotal factors play a decisive role in determining the effectiveness of decisions. The choices made in this context can significantly impact an organization's reputation and financial standing. For instance, opting for an increased driving speed for faster deliveries  may ultimately result in adverse outcomes, such as the potential for goods to be mishandled or damaged, increased fuel consumption, heightened risks of accidents. This means ther is the necessity for optimal decision-making that considers various factors like road quality, delivery windows, etc into account. These challenges underscore the importance of an intelligent system capable of making the best decisions in these situations, ensuring the efficient and safe delivery of goods.
 
 - **Route Complexity:** Navigating through dynamic traffic conditions, road closures, and unexpected obstacles demands adaptive route optimization for efficiency.
 
@@ -44,9 +44,9 @@ In response to these challenges, LogiTrak aims to develop an intelligent agent p
 
 - **Visualization:** Create visualizations to illustrate optimized routes, delivery schedules, and the learning process of the reinforcement learning model.
 
-## Technologies Used
+## Technologies
 
-- [Programming Language(s)] - not yet decided 
+- [Programming Language(s)] - PYTHON, C++, Rust 
 - [Reinforcement Learning Framework] - not yet decided
 - [Simulation Library/Framework] - not yet decided
 
