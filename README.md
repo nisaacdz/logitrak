@@ -50,6 +50,13 @@ In response to these challenges, LogiTrak aims to develop an intelligent agent p
 - [Reinforcement Learning Framework] - not yet decided
 - [Simulation Library/Framework] - not yet decided
 
+## Algorithms
+
+- **Curriculum Learning:** Curriculum Learning will be employed to guide the training process, starting with simple tasks and gradually transitioning to more complex challenges. This will make monitoring the agent's progress and setting up of the environments simpler.
+
+- **Deep Q Networks (DQN):** Deep Q Networks (DQN) will be used to make the agent learn the optimal decision making.
+
+
 ## Deliverables
 
 1. **Reinforcement Learning Model:** Trained model files and documentation.
